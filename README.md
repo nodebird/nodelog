@@ -11,4 +11,6 @@ this.log.info('Server started at PORT: 3000');
 ````
 
 Output
-`[Fri Mar 08 2013 22:36:48] INFO: Server started at PORT: 3000`
+````
+[Fri Mar 08 2013 22:36:48] INFO: Server started at PORT: 3000
+````
